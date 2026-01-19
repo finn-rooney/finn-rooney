@@ -1,4 +1,4 @@
 - 🎸 Hi, I’m @Finn-Rooney
-- 🏙 I’m interested in Music & Web Dev
-- 🚀 Currently learning Astro & Hydrogen + Remix
+- 🏙 Interested in Music & Shopify Apps
+- 🚀 shopify-app-react-router
 - 📧 Email me finn@shoptimizer.agency
